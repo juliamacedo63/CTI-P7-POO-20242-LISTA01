@@ -18,9 +18,15 @@ CAP03/
     └── ...
 
 CAP03/: Diretório contendo as soluções dos exercícios do Capítulo 3.
+
 EXE01/: Código-fonte da solução do exercício 01.
+
 EXE02/: Código-fonte da solução do exercício 02.
+
 EXE03/: Código-fonte da solução do exercício 03.
+
 Conteúdo do Capítulo 3
+
 Tópicos abordados: Conceitos de estrutura sequencial em Java, operações básicas e manipulação de variáveis.
+
 Objetivo: Resolver exercícios práticos aplicando conceitos fundamentais de POO, com foco em manipulação de dados e controle de fluxo no código.
