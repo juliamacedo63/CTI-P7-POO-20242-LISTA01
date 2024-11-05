@@ -12,7 +12,10 @@ O repositório está organizado da seguinte maneira:
 
 CAP03/
     ├── EXE01/
+    
+    
     ├── EXE02/
+    
     ├── EXE03/
     └── ...
 
