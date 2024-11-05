@@ -11,8 +11,9 @@ CAP03/
 ├── EXE02/
 
 ├── EXE03/
-└── ...
 
+
+└── ...
 
 CAP03/: Diretório contendo as soluções dos exercícios do Capítulo 3.
 
