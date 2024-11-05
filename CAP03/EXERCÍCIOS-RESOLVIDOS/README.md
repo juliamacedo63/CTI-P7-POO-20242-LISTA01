@@ -8,11 +8,15 @@ LISTA 01- CAP03:
 
 Estrutura do Repositório
 O repositório está organizado da seguinte maneira:
+
+
 CAP03/
     ├── EXE01/
     ├── EXE02/
     ├── EXE03/
     └── ...
+
+
 CAP03/: Diretório contendo as soluções dos exercícios do Capítulo 3.
 EXE01/: Código-fonte da solução do exercício 01.
 EXE02/: Código-fonte da solução do exercício 02.
