@@ -1,3 +1,6 @@
+Exercícios de Programação Orientada a Objetos (POO) - Capítulo 3
+
+
 Este repositório contém as soluções para os exercícios do Capítulo 3 da disciplina de Programação Orientada a Objetos (POO), desenvolvidas em Java. As questões são baseadas nos capítulos do livro Fundamentos da Programação de Computadores (Algoritmos, Pascal, C/C++ (Padrão ANSI) e Java), de Ana Fernanda Gomes Ascencio e Edilene Aparecida Veneruchi de Campos.
 
 Estrutura do Repositório
