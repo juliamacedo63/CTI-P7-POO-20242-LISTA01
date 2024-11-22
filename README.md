@@ -15,16 +15,38 @@ CAP03/
 
 └── ...
 
-CAP03/: Diretório contendo as soluções dos exercícios do Capítulo 3.
-
-EXE01/: Código-fonte da solução do exercício 01.
-
-EXE02/: Código-fonte da solução do exercício 02.
-
-EXE03/: Código-fonte da solução do exercício 03.
-
-Conteúdo do Capítulo 3
-
 Tópicos abordados: Conceitos de estrutura sequencial em Java, operações básicas e manipulação de variáveis.
 
-Objetivo: Resolver exercícios práticos aplicando conceitos fundamentais de POO, com foco em manipulação de dados e controle de fluxo no código.
+## Capítulo 04: Estrutura Condicional
+Tópicos abordados:
+- **if**: Estrutura de decisão simples.
+- **else**: Executa um bloco de código quando a condição do `if` não é atendida.
+- **else if** (ou `elif`): Verifica condições alternativas.
+- **switch-case** (quando aplicável): Escolhe entre várias opções baseadas no valor de uma variável.
+
+CAP04/
+
+├── EXE01/
+
+├── EXE02/
+
+├── EXE03/
+
+
+└── ...
+## Capítulo 05: Estrutura de Repetição
+Tópicos abordados:
+- **for**: Estrutura de repetição com um número específico de iterações.
+- **while**: Executa um bloco de código enquanto a condição for verdadeira.
+- **do-while**: Executa o bloco de código pelo menos uma vez, e continua enquanto a condição for verdadeira (em algumas linguagens).
+  
+CAP05/
+
+├── EXE01/
+
+├── EXE02/
+
+├── EXE03/
+
+
+└── ...
