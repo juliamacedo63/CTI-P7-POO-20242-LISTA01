@@ -15,7 +15,8 @@ CAP03/
 
 └── ...
 
-Tópicos abordados: Conceitos de estrutura sequencial em Java, operações básicas e manipulação de variáveis.
+Tópicos abordados: 
+- Conceitos de estrutura sequencial em Java, operações básicas e manipulação de variáveis.
 
 ## Capítulo 04: Estrutura Condicional
 Tópicos abordados:
