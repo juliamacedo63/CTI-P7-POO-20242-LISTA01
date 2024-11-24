@@ -24,7 +24,9 @@ Tópicos abordados:
 - **else**: Executa um bloco de código quando a condição do `if` não é atendida.
 - **else if** (ou `elif`): Verifica condições alternativas.
 - **switch-case** (quando aplicável): Escolhe entre várias opções baseadas no valor de uma variável.
+  
 Estrutura do Repositório O Capítulo está organizado da seguinte maneira:
+
 CAP04/
 
 ├── EXE01/
@@ -40,7 +42,9 @@ Tópicos abordados:
 - **for**: Estrutura de repetição com um número específico de iterações.
 - **while**: Executa um bloco de código enquanto a condição for verdadeira.
 - **do-while**: Executa o bloco de código pelo menos uma vez, e continua enquanto a condição for verdadeira (em algumas linguagens).
+- 
 Estrutura do Repositório O Capítulo está organizado da seguinte maneira:
+
 CAP05/
 
 ├── EXE01/
