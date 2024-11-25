@@ -4,16 +4,13 @@ Este repositório contém as soluções para os exercícios do Capítulo 3 da di
 
 Estrutura do Repositório O Capítulo está organizado da seguinte maneira:
 
+```
 CAP03/
-
 ├── EXE01/
-
 ├── EXE02/
-
 ├── EXE03/
-
-
 └── ...
+```
 
 Tópicos abordados: 
 - Conceitos de estrutura sequencial em Java, operações básicas e manipulação de variáveis.
@@ -27,16 +24,13 @@ Tópicos abordados:
   
 Estrutura do Repositório O Capítulo está organizado da seguinte maneira:
 
+```
 CAP04/
-
 ├── EXE01/
-
 ├── EXE02/
-
 ├── EXE03/
-
-
 └── ...
+```
 ## Capítulo 05: Estrutura de Repetição
 Tópicos abordados:
 - **for**: Estrutura de repetição com um número específico de iterações.
@@ -45,16 +39,13 @@ Tópicos abordados:
 - 
 Estrutura do Repositório O Capítulo está organizado da seguinte maneira:
 
+```
 CAP05/
-
 ├── EXE01/
-
 ├── EXE02/
-
 ├── EXE03/
-
-
 └── ...
+```
 # Passo a Passo
 
 ---
