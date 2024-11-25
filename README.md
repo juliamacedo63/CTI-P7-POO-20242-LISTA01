@@ -55,11 +55,11 @@ CAP05/
 
 
 └── ...
-## Passo a Passo
+# Passo a Passo
 
 ---
 
-# 1. Clonar o Repositório
+## 1. Clonar o Repositório
 
 Abra o terminal e clone o repositório no seu computador usando o comando abaixo:
 
@@ -70,7 +70,7 @@ Isso criará uma cópia local do repositório.
 
 ---
 
-# 2. Acessar a Pasta do Repositório
+## 2. Acessar a Pasta do Repositório
 
 Entre na pasta do repositório recém-clonado:
 ```cd CTI-P7-POO-20242-LISTA01```
@@ -78,7 +78,7 @@ Entre na pasta do repositório recém-clonado:
 
 ---
 
-# 3. Navegar para o Exercício Desejado
+## 3. Navegar para o Exercício Desejado
 
 Os exercícios estão organizados em subpastas dentro de CAP03/. Para acessar, por exemplo, o exercício 1:
 
@@ -87,7 +87,7 @@ Os exercícios estão organizados em subpastas dentro de CAP03/. Para acessar, p
 
 ---
 
-# 4. Compilar o Código Java
+## 4. Compilar o Código Java
 
 Verifique se o arquivo .java está presente (ex.: Main.java). Compile o arquivo usando o javac:
 
@@ -98,7 +98,7 @@ Isso gerará um arquivo .class (o bytecode compilado).
 
 ---
 
-# 5. Executar o Programa
+## 5. Executar o Programa
 
 Execute o programa compilado com o comando:
 
@@ -109,7 +109,7 @@ Se o arquivo principal tiver outro nome, substitua Main pelo nome correto.
 
 ---
 
-# 6. Repetir para Outros Exercícios
+## 6. Repetir para Outros Exercícios
 
 Para compilar e executar outros exercícios:
 
@@ -128,10 +128,12 @@ Siga novamente os passos de compilação e execução.
 
 
 ---
-
+#
 # 7. Resolver Problemas Comuns
 
-Erro ```"javac: command not found"```: Certifique-se de que o Java Development Kit (JDK) está instalado e configurado corretamente. Verifique a instalação com:
+Erro ```"javac: command not found"```: 
+
+Certifique-se de que o Java Development Kit (JDK) está instalado e configurado corretamente. Verifique a instalação com:
 
 ```javac -version```
 
