@@ -55,3 +55,94 @@ CAP05/
 
 
 └── ...
+## Passo a Passo
+
+---
+
+1. Clonar o Repositório
+
+Abra o terminal e clone o repositório no seu computador usando o comando abaixo:
+
+git clone https://github.com/juliamacedo63/CTI-P7-POO-20242-LISTA01.git
+
+Isso criará uma cópia local do repositório.
+
+
+---
+
+2. Acessar a Pasta do Repositório
+
+Entre na pasta do repositório recém-clonado:
+
+cd CTI-P7-POO-20242-LISTA01
+
+
+---
+
+3. Navegar para o Exercício Desejado
+
+Os exercícios estão organizados em subpastas dentro de CAP03/. Para acessar, por exemplo, o exercício 1:
+
+cd CAP03/EXE01
+
+
+---
+
+4. Compilar o Código Java
+
+Verifique se o arquivo .java está presente (ex.: Main.java). Compile o arquivo usando o javac:
+
+javac Main.java
+
+Isso gerará um arquivo .class (o bytecode compilado).
+
+
+---
+
+5. Executar o Programa
+
+Execute o programa compilado com o comando:
+
+java Main
+
+Se o arquivo principal tiver outro nome, substitua Main pelo nome correto.
+
+
+---
+
+6. Repetir para Outros Exercícios
+
+Para compilar e executar outros exercícios:
+
+1. Volte à pasta principal do capítulo:
+
+cd ..
+
+
+2. Entre na pasta do próximo exercício, por exemplo:
+
+cd EXE02
+
+
+
+Siga novamente os passos de compilação e execução.
+
+
+---
+
+7. Resolver Problemas Comuns
+
+Erro "javac: command not found": Certifique-se de que o Java Development Kit (JDK) está instalado e configurado corretamente. Verifique a instalação com:
+
+javac -version
+
+Caso não esteja instalado, baixe o JDK em oracle.com/java/technologies/javase-downloads.html ou instale via gerenciador de pacotes do sistema.
+
+Erro de Caminho ou Classe: Confirme que você está no diretório correto e que o nome do arquivo Java está correto.
+
+
+
+---
+
+Pronto! Agora você consegue explorar e executar os códigos Java do repositório. Se precisar de algo mais, é só avisar!
+
