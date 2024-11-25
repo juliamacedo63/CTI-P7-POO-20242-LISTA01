@@ -63,7 +63,7 @@ CAP05/
 
 Abra o terminal e clone o repositório no seu computador usando o comando abaixo:
 
-```git clone https://github.com/juliamacedo63/CTI-P7-POO-20242-LISTA01.git```
+`git clone https://github.com/juliamacedo63/CTI-P7-POO-20242-LISTA01.git`
 
 Isso criará uma cópia local do repositório.
 
