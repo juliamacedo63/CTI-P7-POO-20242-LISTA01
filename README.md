@@ -128,8 +128,7 @@ Siga novamente os passos de compilação e execução.
 
 
 ---
-#
-# 7. Resolver Problemas Comuns
+## 7. Resolver Problemas Comuns
 
 Erro ```"javac: command not found"```: 
 
