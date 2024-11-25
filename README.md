@@ -103,7 +103,7 @@ Isso gerará um arquivo .class (o bytecode compilado).
 
 Execute o programa compilado com o comando:
 
-java Main
+```java Main```
 
 Se o arquivo principal tiver outro nome, substitua Main pelo nome correto.
 
