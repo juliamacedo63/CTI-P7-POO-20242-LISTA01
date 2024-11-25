@@ -115,12 +115,12 @@ Para compilar e executar outros exercícios:
 
 1. Volte à pasta principal do capítulo:
 
-``cd ..``
+   ```cd ..```
 
 
 2. Entre na pasta do próximo exercício, por exemplo:
 
-``cd EXE02``
+  ```cd EXE02```
 
 
 
