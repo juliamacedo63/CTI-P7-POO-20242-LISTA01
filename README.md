@@ -143,6 +143,3 @@ Erro de Caminho ou Classe: Confirme que você está no diretório correto e que 
 
 
 ---
-
-Pronto! Agora você consegue explorar e executar os códigos Java do repositório. Se precisar de algo mais, é só avisar!
-
