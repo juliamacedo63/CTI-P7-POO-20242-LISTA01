@@ -47,6 +47,34 @@ CAP05/
 ├── EXE03/
 └── ...
 ```
+## Capítulo 6:Vetores
+No Capítulo 06, você vai trabalhar com vetores (ou arrays). Os principais conceitos abordados nesse capítulo incluem:
+
+Declaração de vetores em Java.
+Inicialização de vetores.
+Manipulação de vetores: como acessar, modificar e percorrer elementos.
+Operações com vetores (exemplo: soma, média, busca, ordenação, etc.).
+Estrutura do Repositório O Capítulo está organizado da seguinte maneira:
+
+```
+CAP06/
+├── EXE01/
+├── EXE02/
+├── EXE03/
+└── ...
+```
+## Capítulo 08: Sub-rotinas com Vetores
+No Capítulo 08, o foco estará nas sub-rotinas que manipulam vetores (arrays). Aqui você aprenderá como criar funções que aceitam vetores como parâmetros e retornam resultados, como a soma de elementos, a busca por um valor, ou a ordenação do vetor.
+
+Estrutura do repositório para este capítulo:
+
+```
+CAP08/
+├── EXE01/
+├── EXE02/
+├── EXE03/
+└── ...
+```
 # Passo a Passo
 
 ---
