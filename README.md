@@ -48,7 +48,7 @@ CAP05/
 └── ...
 ```
 ## Capítulo 6:Vetores
-No Capítulo 06, você vai trabalhar com vetores (ou arrays). Os principais conceitos abordados nesse capítulo incluem:
+Os principais conceitos abordados nesse capítulo incluem:
 
 - Declaração de vetores em Java.
 - Inicialização de vetores.
