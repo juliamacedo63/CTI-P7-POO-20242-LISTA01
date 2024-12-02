@@ -37,7 +37,7 @@ Tópicos abordados:
 - **for**: Estrutura de repetição com um número específico de iterações.
 - **while**: Executa um bloco de código enquanto a condição for verdadeira.
 - **do-while**: Executa o bloco de código pelo menos uma vez, e continua enquanto a condição for verdadeira (em algumas linguagens).
-- 
+  
 Estrutura do Repositório O Capítulo está organizado da seguinte maneira:
 
 ```
@@ -50,11 +50,11 @@ CAP05/
 ## Capítulo 6:Vetores
 No Capítulo 06, você vai trabalhar com vetores (ou arrays). Os principais conceitos abordados nesse capítulo incluem:
 
-Declaração de vetores em Java.
-Inicialização de vetores.
-Manipulação de vetores: como acessar, modificar e percorrer elementos.
-Operações com vetores (exemplo: soma, média, busca, ordenação, etc.).
-Estrutura do Repositório O Capítulo está organizado da seguinte maneira:
+- Declaração de vetores em Java.
+- Inicialização de vetores.
+- Manipulação de vetores: como acessar, modificar e percorrer elementos.
+- Operações com vetores (exemplo: soma, média, busca, ordenação, etc.).
+- Estrutura do Repositório O Capítulo está organizado da seguinte maneira:
 
 ```
 CAP06/
