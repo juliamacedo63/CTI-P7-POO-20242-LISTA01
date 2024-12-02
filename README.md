@@ -47,7 +47,7 @@ CAP05/
 ├── EXE03/
 └── ...
 ```
-## Capítulo 6:Vetores
+## Capítulo 06: Vetores
 Os principais conceitos abordados nesse capítulo incluem:
 
 - Declaração de vetores em Java.
